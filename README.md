@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**chintyaw/chintyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Chintya Wijaya. I'm from Indonesia, currently studying at ITB.  <br /> <br /> 
 
-Here are some ideas to get you started:
+⚡ I'm interested in Product and UI/UX. <br /> 
+🔭 Find my design explorations on [Behance](https://behance.net/chintyaw)<br /> 
+🌱 I’m currently learning web development<br /> 
+😄 You can also find my stories on [Medium](https://chintyaw.medium.com/).<br /> 
+📫 You can find me on [![LinkedIn][3.2]][3].<br /> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<!-- links to social media icons -->
+<!-- icons with padding -->
+
+<!-- icons without padding -->
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (Chintya's Linkedin)
+
+
+<!-- links to your social media accounts -->
+[2]: https://github.com/MartinHeinz
+[3]: https://www.linkedin.com/in/chintyaw/
